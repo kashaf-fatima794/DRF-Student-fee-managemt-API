@@ -1,4 +1,4 @@
-# django rest framework apis projects
+# django rest framework Student fee management api
 
 #  Student Fee Management API
 
